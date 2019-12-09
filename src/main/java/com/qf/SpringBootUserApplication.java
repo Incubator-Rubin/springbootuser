@@ -9,6 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class SpringBootUserApplication extends SpringBootServletInitializer {
     public static void main(String[] args) {
         System.out.println("项目启动啦");
+        System.out.println("第二次修改");
         SpringApplication.run(SpringBootUserApplication.class);
     }
 
